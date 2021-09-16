@@ -1,0 +1,8 @@
+2021-09-15/10:50:14		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_10082021_172500.csv
+2021-09-15/13:37:03		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_10082021_172500.csv
+2021-09-15/13:38:18		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20202020_121212.csv
+2021-09-15/15:47:05		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20202020_121212.csv
+2021-09-15/15:47:53		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20102010_121212.csv
+2021-09-15/15:48:20		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20102010_121212.csv
+2021-09-15/19:11:16		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20102010_121212.csv
+2021-09-16/14:01:44		Valid File name!! File moved to GoodRaw Folder :: LoanDelinquencyPrediction_20202020_121212.csv

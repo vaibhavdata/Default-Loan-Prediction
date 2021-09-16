@@ -1,0 +1,24 @@
+2021-09-15/10:50:15		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/10:50:15		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/10:50:16		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/13:37:03		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/13:37:03		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/13:37:04		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/13:38:19		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/13:38:19		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/13:38:20		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/15:47:05		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:47:05		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:47:07		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/15:47:53		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:47:53		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:47:54		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/15:48:20		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:48:20		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/15:48:20		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-15/19:11:16		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-15/19:11:16		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-15/19:11:16		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-16/14:01:44		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-16/14:01:44		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-16/14:01:44		Successfully Executed create_collection() method of DB_Operation class of db_operation package

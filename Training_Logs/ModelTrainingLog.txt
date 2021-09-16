@@ -1,0 +1,133 @@
+2021-09-14/20:06:47		Start of Training
+2021-09-14/20:06:47		start data getting
+2021-09-14/20:06:47		Entered the get_data method of the Data_Getter class
+2021-09-14/20:06:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-14/20:06:47		get data succesfullly
+2021-09-14/20:06:47		Entered is Null Present in data set
+2021-09-14/20:06:47		remove tracking id succesfully
+2021-09-14/20:06:47		import missing value succesfully
+2021-09-14/20:06:47		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-14/20:06:47		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-14/20:06:47		label encoding
+2021-09-14/20:06:47		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-14/20:06:47		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-14/20:06:47		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-14/20:06:48		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-14/20:06:48		Count financial  institutionStarted dict coding 
+2021-09-14/20:06:48		financial institution of financial Feature Successfully Completed
+2021-09-14/20:06:48		Encoding succesfullly
+2021-09-14/20:06:48		Entered the remove_columns method of the Preprocessor class
+2021-09-14/20:06:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-14/20:06:48		tranform data
+2021-09-14/20:06:48		transform for numerical values successful. Exited the transform_numerical_columns method of the Preprocessor class
+2021-09-14/20:06:48		Remove column succesfullly succesfully
+2021-09-14/20:06:48		separate label  feature starting
+2021-09-14/20:06:48		Entered the separate_label_feature method of the Preprocessor class
+2021-09-14/20:06:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-09-14/20:06:48		scale numberical value
+2021-09-14/20:06:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-14/20:06:48		scale numberical value
+2021-09-14/20:06:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-14/20:06:48		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2021-09-14/20:06:48		Before Random  Oversampling:: Counter({0: 76941, 1: 431})
+2021-09-14/20:06:48		After random Oversampling:: Counter({0: 76941, 1: 57705})
+2021-09-14/20:06:48		Entered the get_best_model method of the Model_Finder class
+2021-09-14/20:06:48		Entered the get_best_params_for_DecisionTree method of the Model_Finder class
+2021-09-14/20:06:50		Decision Tree best params: {'max_features': 'sqrt', 'max_leaf_nodes': 10, 'min_samples_split': 2, 'random_state': 50}. Exited the get_best_params_for_Decision Tree method of the Model_Finder class
+2021-09-14/20:06:50		F1 score for SVM::0.9638111978493512	confiux matrix  for dession tree ::[[37167  1314]
+ [   86   119]]
+2021-09-14/20:06:50		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-14/20:35:25		Random Forest best params: {'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 1000}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-14/20:35:30		F1 score for random forest::0.9800444605283565	confiux matrix  for random forest  ::[[37799   682]
+ [   90   115]]
+2021-09-14/20:35:30		Entered the save_model method of the File_Operation class
+2021-09-14/20:35:30		Model File DecisionTree saved. Exited the save_model method of the Model_Finder class
+2021-09-14/20:35:30		Successfull End of Training
+2021-09-15/00:18:50		Start of Training
+2021-09-15/00:18:50		start data getting
+2021-09-15/00:18:50		Entered the get_data method of the Data_Getter class
+2021-09-15/00:18:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/00:18:50		get data succesfullly
+2021-09-15/00:18:50		Entered is Null Present in data set
+2021-09-15/00:18:50		import missing value succesfully
+2021-09-15/00:18:50		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/00:18:51		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/00:18:51		label encoding
+2021-09-15/00:18:51		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/00:18:51		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/00:18:51		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/00:18:51		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/00:18:51		Count financial  institutionStarted dict coding 
+2021-09-15/00:18:51		financial institution of financial Feature Successfully Completed
+2021-09-15/00:18:51		Encoding succesfullly
+2021-09-15/00:18:51		Entered the remove_columns method of the Preprocessor class
+2021-09-15/00:18:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/00:18:51		tranform data
+2021-09-15/00:18:51		transform for numerical values successful. Exited the transform_numerical_columns method of the Preprocessor class
+2021-09-15/00:18:51		Remove column succesfullly succesfully
+2021-09-15/00:18:51		separate label  feature starting
+2021-09-15/00:18:51		Entered the separate_label_feature method of the Preprocessor class
+2021-09-15/00:18:52		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-09-15/00:18:52		scale numberical value
+2021-09-15/00:18:52		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/00:18:52		scale numberical value
+2021-09-15/00:18:52		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/00:18:52		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2021-09-15/00:18:53		Before Random  Oversampling:: Counter({0: 76941, 1: 431})
+2021-09-15/00:18:53		After random Oversampling:: Counter({0: 76941, 1: 57705})
+2021-09-15/00:18:53		Entered the get_best_model method of the Model_Finder class
+2021-09-15/00:18:53		Entered the get_best_params_for_DecisionTree method of the Model_Finder class
+2021-09-15/00:18:56		Decision Tree best params: {'criterion': 'gini', 'max_features': 'sqrt', 'max_leaf_nodes': 10, 'min_samples_split': 2, 'random_state': 50}. Exited the get_best_params_for_Decision Tree method of the Model_Finder class
+2021-09-15/00:18:57		F1 score for SVM::0.9638111978493512	confiux matrix  for dession tree ::[[37167  1314]
+ [   86   119]]
+2021-09-15/00:18:57		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-15/00:46:43		Random Forest best params: {'criterion': 'gini', 'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 800}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-15/00:46:47		F1 score for random forest::0.9814403143255959	confiux matrix  for random forest  ::[[37853   628]
+ [   90   115]]
+2021-09-15/00:46:47		Entered the save_model method of the File_Operation class
+2021-09-15/00:46:47		Model File DecisionTree saved. Exited the save_model method of the Model_Finder class
+2021-09-15/00:46:47		Successfull End of Training
+2021-09-15/10:17:52		Start of Training
+2021-09-15/10:17:52		start data getting
+2021-09-15/10:17:52		Entered the get_data method of the Data_Getter class
+2021-09-15/10:17:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/10:17:52		get data succesfullly
+2021-09-15/10:17:52		Entered is Null Present in data set
+2021-09-15/10:17:52		import missing value succesfully
+2021-09-15/10:17:52		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/10:17:52		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/10:17:52		label encoding
+2021-09-15/10:17:52		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/10:17:52		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/10:17:52		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/10:17:52		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/10:17:52		Count financial  institutionStarted dict coding 
+2021-09-15/10:17:52		financial institution of financial Feature Successfully Completed
+2021-09-15/10:17:52		Encoding succesfullly
+2021-09-15/10:17:52		Entered the remove_columns method of the Preprocessor class
+2021-09-15/10:17:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/10:17:53		tranform data
+2021-09-15/10:17:53		transform for numerical values successful. Exited the transform_numerical_columns method of the Preprocessor class
+2021-09-15/10:17:53		Remove column succesfullly succesfully
+2021-09-15/10:17:53		separate label  feature starting
+2021-09-15/10:17:53		Entered the separate_label_feature method of the Preprocessor class
+2021-09-15/10:17:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-09-15/10:17:53		scale numberical value
+2021-09-15/10:17:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/10:17:53		scale numberical value
+2021-09-15/10:17:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/10:17:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2021-09-15/10:17:53		Before Random  Oversampling:: Counter({0: 76941, 1: 431})
+2021-09-15/10:17:53		After random Oversampling:: Counter({0: 76941, 1: 57705})
+2021-09-15/10:17:53		Entered the get_best_model method of the Model_Finder class
+2021-09-15/10:17:53		Entered the get_best_params_for_DecisionTree method of the Model_Finder class
+2021-09-15/10:17:56		Decision Tree best params: {'criterion': 'gini', 'max_features': 'sqrt', 'max_leaf_nodes': 10, 'min_samples_split': 2, 'random_state': 50}. Exited the get_best_params_for_Decision Tree method of the Model_Finder class
+2021-09-15/10:17:56		F1 score for decision Tree::0.9638111978493512	confiux matrix  for dession tree ::[[37167  1314]
+ [   86   119]]
+2021-09-15/10:17:56		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-15/10:45:45		Random Forest best params: {'criterion': 'gini', 'max_depth': 10, 'max_features': 'sqrt', 'n_estimators': 1000}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-09-15/10:45:51		F1 score for random forest::0.9791914387633769	confiux matrix  for random forest  ::[[37765   716]
+ [   89   116]]
+2021-09-15/10:45:51		Entered the save_model method of the File_Operation class
+2021-09-15/10:45:51		Model File RandomForest saved. Exited the save_model method of the Model_Finder class
+2021-09-15/10:45:51		Successfull End of Training

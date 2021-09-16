@@ -1,0 +1,216 @@
+2021-09-15/10:50:21		Start of predication
+2021-09-15/10:50:21		start data getting
+2021-09-15/10:50:21		Entered the get_data method of the Data_Getter class
+2021-09-15/10:50:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/10:50:21		get data succesfullly
+2021-09-15/10:50:21		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/10:50:21		import missing value succesfully
+2021-09-15/10:50:21		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/10:50:21		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/10:50:21		inter in label encoding
+2021-09-15/10:50:21		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/10:50:21		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/10:50:21		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/10:50:21		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/10:50:21		Count financial  institutionStarted dict coding 
+2021-09-15/10:50:21		financial institution of financial Feature Successfully Completed
+2021-09-15/10:50:21		Encoding succesfullly
+2021-09-15/10:50:21		Entered the remove_columns method of the Preprocessor class
+2021-09-15/10:50:21		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/10:50:21		Remove column succesfullly succesfully
+2021-09-15/10:50:21		scale numberical value
+2021-09-15/10:50:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/10:50:21		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/10:50:21		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/10:50:21		Entered the load_model method of the File_Operation class
+2021-09-15/10:50:21		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/10:50:21		End of Prediction
+2021-09-15/13:37:09		Start of predication
+2021-09-15/13:37:09		start data getting
+2021-09-15/13:37:09		Entered the get_data method of the Data_Getter class
+2021-09-15/13:37:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/13:37:09		get data succesfullly
+2021-09-15/13:37:09		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/13:37:09		import missing value succesfully
+2021-09-15/13:37:09		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/13:37:09		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/13:37:09		inter in label encoding
+2021-09-15/13:37:09		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/13:37:09		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/13:37:09		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/13:37:09		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/13:37:09		Count financial  institutionStarted dict coding 
+2021-09-15/13:37:09		financial institution of financial Feature Successfully Completed
+2021-09-15/13:37:09		Encoding succesfullly
+2021-09-15/13:37:09		Entered the remove_columns method of the Preprocessor class
+2021-09-15/13:37:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/13:37:09		Remove column succesfullly succesfully
+2021-09-15/13:37:09		scale numberical value
+2021-09-15/13:37:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/13:37:09		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/13:37:09		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/13:37:09		Entered the load_model method of the File_Operation class
+2021-09-15/13:37:09		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/13:37:10		End of Prediction
+2021-09-15/13:38:23		Start of predication
+2021-09-15/13:38:23		start data getting
+2021-09-15/13:38:23		Entered the get_data method of the Data_Getter class
+2021-09-15/13:38:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/13:38:23		get data succesfullly
+2021-09-15/13:38:23		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/13:38:23		import missing value succesfully
+2021-09-15/13:38:23		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/13:38:23		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/13:38:23		inter in label encoding
+2021-09-15/13:38:23		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/13:38:23		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/13:38:23		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/13:38:23		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/13:38:23		Count financial  institutionStarted dict coding 
+2021-09-15/13:38:23		financial institution of financial Feature Successfully Completed
+2021-09-15/13:38:23		Encoding succesfullly
+2021-09-15/13:38:23		Entered the remove_columns method of the Preprocessor class
+2021-09-15/13:38:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/13:38:23		Remove column succesfullly succesfully
+2021-09-15/13:38:23		scale numberical value
+2021-09-15/13:38:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/13:38:23		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/13:38:23		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/13:38:23		Entered the load_model method of the File_Operation class
+2021-09-15/13:38:23		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/13:38:23		End of Prediction
+2021-09-15/15:47:11		Start of predication
+2021-09-15/15:47:11		start data getting
+2021-09-15/15:47:11		Entered the get_data method of the Data_Getter class
+2021-09-15/15:47:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/15:47:11		get data succesfullly
+2021-09-15/15:47:11		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/15:47:11		import missing value succesfully
+2021-09-15/15:47:11		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/15:47:11		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/15:47:11		inter in label encoding
+2021-09-15/15:47:11		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:47:11		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:47:11		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:47:11		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:47:11		Count financial  institutionStarted dict coding 
+2021-09-15/15:47:11		financial institution of financial Feature Successfully Completed
+2021-09-15/15:47:11		Encoding succesfullly
+2021-09-15/15:47:11		Entered the remove_columns method of the Preprocessor class
+2021-09-15/15:47:11		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/15:47:11		Remove column succesfullly succesfully
+2021-09-15/15:47:11		scale numberical value
+2021-09-15/15:47:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/15:47:11		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/15:47:11		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/15:47:11		Entered the load_model method of the File_Operation class
+2021-09-15/15:47:11		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/15:47:11		End of Prediction
+2021-09-15/15:47:54		Start of predication
+2021-09-15/15:47:54		start data getting
+2021-09-15/15:47:54		Entered the get_data method of the Data_Getter class
+2021-09-15/15:47:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/15:47:54		get data succesfullly
+2021-09-15/15:47:54		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/15:47:54		import missing value succesfully
+2021-09-15/15:47:54		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/15:47:54		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/15:47:54		inter in label encoding
+2021-09-15/15:47:54		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:47:54		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:47:54		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:47:54		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:47:54		Count financial  institutionStarted dict coding 
+2021-09-15/15:47:54		financial institution of financial Feature Successfully Completed
+2021-09-15/15:47:54		Encoding succesfullly
+2021-09-15/15:47:54		Entered the remove_columns method of the Preprocessor class
+2021-09-15/15:47:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/15:47:54		Remove column succesfullly succesfully
+2021-09-15/15:47:54		scale numberical value
+2021-09-15/15:47:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/15:47:54		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/15:47:54		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/15:47:54		Entered the load_model method of the File_Operation class
+2021-09-15/15:47:54		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/15:47:54		End of Prediction
+2021-09-15/15:48:20		Start of predication
+2021-09-15/15:48:20		start data getting
+2021-09-15/15:48:20		Entered the get_data method of the Data_Getter class
+2021-09-15/15:48:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/15:48:20		get data succesfullly
+2021-09-15/15:48:20		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/15:48:20		import missing value succesfully
+2021-09-15/15:48:20		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/15:48:20		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/15:48:20		inter in label encoding
+2021-09-15/15:48:20		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:48:20		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:48:20		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/15:48:20		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/15:48:20		Count financial  institutionStarted dict coding 
+2021-09-15/15:48:20		financial institution of financial Feature Successfully Completed
+2021-09-15/15:48:20		Encoding succesfullly
+2021-09-15/15:48:20		Entered the remove_columns method of the Preprocessor class
+2021-09-15/15:48:20		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/15:48:20		Remove column succesfullly succesfully
+2021-09-15/15:48:20		scale numberical value
+2021-09-15/15:48:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/15:48:20		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/15:48:20		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/15:48:20		Entered the load_model method of the File_Operation class
+2021-09-15/15:48:20		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/15:48:20		End of Prediction
+2021-09-15/19:11:16		Start of predication
+2021-09-15/19:11:16		start data getting
+2021-09-15/19:11:16		Entered the get_data method of the Data_Getter class
+2021-09-15/19:11:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-15/19:11:16		get data succesfullly
+2021-09-15/19:11:16		Entered the IsNull Present method of Data Proprocessing 
+2021-09-15/19:11:16		import missing value succesfully
+2021-09-15/19:11:16		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-15/19:11:16		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-15/19:11:16		inter in label encoding
+2021-09-15/19:11:16		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/19:11:16		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/19:11:16		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-15/19:11:16		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-15/19:11:16		Count financial  institutionStarted dict coding 
+2021-09-15/19:11:16		financial institution of financial Feature Successfully Completed
+2021-09-15/19:11:16		Encoding succesfullly
+2021-09-15/19:11:16		Entered the remove_columns method of the Preprocessor class
+2021-09-15/19:11:16		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-15/19:11:16		Remove column succesfullly succesfully
+2021-09-15/19:11:16		scale numberical value
+2021-09-15/19:11:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-15/19:11:16		Entered the find_correct_model_file method of the File_Operation class
+2021-09-15/19:11:16		Exited the find_correct_model_file method of FileMethods Package
+2021-09-15/19:11:16		Entered the load_model method of the File_Operation class
+2021-09-15/19:11:16		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-15/19:11:16		End of Prediction
+2021-09-16/14:01:49		Start of predication
+2021-09-16/14:01:49		start data getting
+2021-09-16/14:01:49		Entered the get_data method of the Data_Getter class
+2021-09-16/14:01:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-16/14:01:49		get data succesfullly
+2021-09-16/14:01:49		Entered the IsNull Present method of Data Proprocessing 
+2021-09-16/14:01:49		import missing value succesfully
+2021-09-16/14:01:49		Entered data to Finding Difference time between origination  Time and First payment  Time
+2021-09-16/14:01:49		Finding Difference between origination and first payment  Time Completed Successfully !!
+2021-09-16/14:01:49		inter in label encoding
+2021-09-16/14:01:49		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-16/14:01:49		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-16/14:01:49		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-16/14:01:49		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-16/14:01:49		Count financial  institutionStarted dict coding 
+2021-09-16/14:01:49		financial institution of financial Feature Successfully Completed
+2021-09-16/14:01:49		Encoding succesfullly
+2021-09-16/14:01:49		Entered the remove_columns method of the Preprocessor class
+2021-09-16/14:01:49		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-16/14:01:49		Remove column succesfullly succesfully
+2021-09-16/14:01:49		scale numberical value
+2021-09-16/14:01:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-16/14:01:49		Entered the find_correct_model_file method of the File_Operation class
+2021-09-16/14:01:49		Exited the find_correct_model_file method of FileMethods Package
+2021-09-16/14:01:49		Entered the load_model method of the File_Operation class
+2021-09-16/14:01:49		Model File DecisionTree loaded. Exited the load_model method of the Model_Finder class
+2021-09-16/14:01:49		End of Prediction
